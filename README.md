@@ -1,9 +1,9 @@
 calliope
 ========
 
-A calendar mimicking the iCal day view behaviour. Everything is made using graphics.
+A calendar mimicking the iCal day view behaviour. Everything is made using Graphics.
 
-It support:
+It supports:
 
 * basic animations when deleting a task
 * data persistence through xml
