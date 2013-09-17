@@ -13,5 +13,6 @@ Compile: **mkdir bin && javac -encoding UTF-8 -cp src src/controller/Main.java -
 
 Run: **java -cp bin controller.Main**
 
+![alt tag](https://raw.github.com/paoloboschini/calliope/master/screen.png)
 
 Credit to marcus@ihlar.se
